@@ -1,1 +1,3 @@
-Исходный проект подготовлен. APK НЕ собран и НЕ проверен. Для сборки используйте GitHub Actions workflow .github/workflows/android.yml.
+Source project updated. APK has NOT been built or device-tested in this environment.
+Contains 17 direct stream candidates, playback state/error UI, persistent favorites, and an in-app equalizer panel backed by Android Equalizer.
+Confirm compilation in GitHub Actions and test each stream and equalizer on the target Android device before treating this as a release build.
